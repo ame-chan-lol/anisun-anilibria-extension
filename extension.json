@@ -1,5 +1,7 @@
 {
+    "logo": "",
     "name": "anilibria",
+    "displayName": "Anilibria Player",
     "url": "https://raw.githubusercontent.com/ame-chan-lol/anisun-anilibria-extension/refs/heads/main/dist/bundle.js",
     "pages": [],
     "version": "1.0",
